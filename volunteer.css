@@ -1,0 +1,58 @@
+body {
+    margin: 0 !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    padding: 0;
+    color: whitesmoke;
+}
+
+nav {
+    padding: 10px;
+    font-size: 30px;
+}
+
+a {
+    color: black;
+}
+
+#menu {
+    text-align: center;
+    vertical-align: middle;
+    padding: 0 !important;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+#about {
+    background-image: url("https://images.unsplash.com/photo-1462556791646-c201b8241a94?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e712ca93edd202526b934b70869d0c92&auto=format&fit=crop&w=2090&q=80");
+    padding: 20px;
+}
+
+#resources {
+    background-image: url("https://images.unsplash.com/photo-1460627390041-532a28402358?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d0363f849f9425a8a61f560ca83d71bb&auto=format&fit=crop&w=2100&q=80");
+}
+
+#partnerships {
+    background-image: url("https://images.unsplash.com/photo-1513754934927-4606bafe9858?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f713774dcc5037950ecd26215e8a8481&auto=format&fit=crop&w=1400&q=80");
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+i {
+    color: white;
+    padding: 20px;
+}
